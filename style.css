@@ -32,7 +32,7 @@ ul
 }
 #top .left_top img
 {
-	
+	background-image: url("logo.png");
 	height: 100%;
 	width:100%;
 }
