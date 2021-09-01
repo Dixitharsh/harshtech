@@ -1,0 +1,6 @@
+even odd
+prime no
+factorial
+palindrome
+no bigger smaller
+comparision b/w three no

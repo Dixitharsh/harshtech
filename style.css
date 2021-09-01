@@ -1,0 +1,116 @@
+*
+{
+margin: 0px;
+}
+ul
+{
+	list-style:none;
+	padding:0px;
+}
+.clear
+{
+	clear: both;
+}
+#all
+{
+	background:#F5F6F7;
+	height:100%;
+	width:100%;
+	
+}
+#top
+{
+	background:none;
+	height:20%;
+	width:100%;
+}
+#top .left_top
+{
+	float:left;
+	height: 100%;
+	width:20%;
+}
+#top .left_top img
+{
+	
+	height: 100%;
+	width:100%;
+}
+#top .right_to
+{
+	height: 100%;
+	width:80%;
+	float:right;
+}
+#top .right_top h1
+{
+	color:#19256C;
+	float:right;
+}
+#top .right_top h3
+{
+	color:#19256C;	
+	margin-top:40px;
+	margin-left:800px;
+	
+}
+#top .right_top .logo
+{
+
+	height:70px;
+	width:60px;
+	float:right;
+	margin-right:30px;
+	margin-top:20px;
+}
+#top .right_top .logo a
+{
+	height:100%;
+	width:100%;
+	
+}
+#main
+{
+	height:80%;
+	width:100%;
+}
+#main .menu
+{
+	background:#19256C;
+	height:10%;
+	width:100%;
+}
+#main .menu ul
+{
+	text-decoration:none;
+}
+#main .menu ul li
+{
+    color:white;
+	list-style: none;
+	float:left;
+	margin-left:160px;
+    margin-top:10px;
+}
+#main .menu ul li:hover
+{
+
+	text-decoration:none;
+}
+#main .menu ul li a
+{
+	color:black;
+	text-decoration: none;
+}
+#main .content
+{
+	background:white;
+    color:#19256C;
+	margin-left:5%;
+	height:90%;
+	width:90%;
+}
+#main .content p
+{
+    font-size:20px;
+}
